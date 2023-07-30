@@ -15,10 +15,10 @@
     <img src="imagens/Logotipo - PoD Academy - sem fundo-01.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Semana Game Changer</h3>
+  <h3 align="center">Semana da Ciência de Dados</h3>
 
   <p align="center">
-    Resolvendo problemas de negócio utilizando Engenharia de Dados, Ciência de Dados e Cloud Computing!
+    Resolvendo problemas de negócio utilizando Análise de Dados, Ciência de Dados e Tecnologia!
     <br />
     <a href="#"><strong>PoD Academy »</strong></a>
     <br />
@@ -31,7 +31,7 @@
   <summary>Sumário</summary>
   <ol>
     <li>
-      <a href="#semana-game-changer">Semana Game Changer</a>
+      <a href="#semana-game-changer">Semana da Ciência de Dados</a>
     </li>
     <li>
       <a href="#introdução-ao-mundo-big-data-e-analytics">Introdução ao mundo Big Data e Analytics</a>
